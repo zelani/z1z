@@ -14,7 +14,7 @@ import SupervisorPage from "./components/SupervisorPage";
 import HoursPage      from "./components/HoursPage";
 import EmployeePage   from "./components/EmployeePage";
 import ChatPanel      from "./components/ChatPanel";
-import LoginPage      from "./components/LoginPage";   // ← NEW
+import LoginPage      from "./components/loginpage";   // ← NEW
 
 // ── Which tabs each role can see ──────────────────────────────────────────────
 const ROLE_TABS = {
